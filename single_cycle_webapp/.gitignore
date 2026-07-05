@@ -1,0 +1,12 @@
+# Database files
+**/.db
+
+# Prodcution
+**/build/
+**/dist/
+
+# Flask instance folder
+**/instance/
+
+# Node.js dependencies
+**/node_modules/
